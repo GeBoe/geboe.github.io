@@ -1,9 +1,15 @@
 # main links
 main:
+  - title: "Beschreibung"
+    url: /beschreibung/
+  - title: "Bildergalerie"
+    url: /bildergalerie/
   - title: "Verfügbarkeit"
     url: /buchung/
  # - title: "Abou"
  #   url: /about/
+  - title: "Kontakt"
+    url: /kontakt/
   - title: "Impressum"
     url: /impressum/
  # - title: "Sample Collections"
