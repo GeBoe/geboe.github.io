@@ -11,6 +11,4 @@ sitemap: false
 }
 </style>
 
-<div style="margin-left:10%; margin-right:10%; text-align: justify">
-<h1>Verfügbarkeit</h1>
-</div>
+Hier auf Link verweisen
