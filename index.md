@@ -36,7 +36,7 @@ sitemap: false
         <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="Bild 3">
       </a>
        </div>
-    
+    <br>
     <div style="width:20%;margin:auto;">
      <a href="https://geboe.github.io/ferienwohnung_04.jpg">
         <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="Bild 4">
