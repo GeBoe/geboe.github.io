@@ -12,7 +12,7 @@ sitemap: false
 </style>
 
 <h1>Bilder</h1>
-{: .text-center}
+{: .notice--info}
 
 
 <figure class="third">
