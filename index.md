@@ -5,7 +5,7 @@ layout: splash
 excerpt: "Wohnung"
 sitemap: false
 header:
-  image: erienanlage-anna_duene.jpg
+  image: ferienanlage-anna_duene.jpg
 ---
 <style>
  td {
