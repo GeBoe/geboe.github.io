@@ -19,7 +19,7 @@ sitemap: false
 
 <figure class="third">
   
-    <div style="width:15%;margin:auto;">
+    <div style="width:15%;margin:10px;">
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
         <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
       </a>
@@ -37,6 +37,7 @@ sitemap: false
       </a>
        </div>
     <br>
+    
     <div style="width:15%;margin:auto;">
      <a href="https://geboe.github.io/ferienwohnung_04.jpg">
         <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="Bild 4">
