@@ -15,7 +15,7 @@ sitemap: false
 
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Dein Name">
-    <input type="email" name="_replyto" placeholder="Deine E-Mail">
+    <input type="email" name="_replyto" placeholder="Deine E-Mail-Adresse">
     <input type="hidden" name="_subject" value="Website contact" />
     <textarea name="message" placeholder="Deine Nachricht" style="height:150px"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
