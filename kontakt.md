@@ -17,6 +17,7 @@ sitemap: false
     <input type="text" name="name" placeholder="Dein Name">
     <input type="email" name="_replyto" placeholder="Deine E-Mail-Adresse">
     <input type="hidden" name="_subject" value="Website contact" />
+    <input type="hidden" name="_next" value="//geboe.github.io/kontakt/">
     <textarea name="message" placeholder="Deine Nachricht" style="height:150px"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
