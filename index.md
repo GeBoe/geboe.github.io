@@ -4,6 +4,8 @@ permalink: /
 layout: splash
 excerpt: "Wohnung"
 sitemap: false
+header:
+  image: erienanlage-anna_duene.jpg
 ---
 <style>
  td {
