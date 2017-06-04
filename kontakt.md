@@ -11,8 +11,8 @@ sitemap: false
 }
 </style>
 
-<div style="margin-left:30%; margin-right:10%; text-align: justify">
-<form id="contactform" method="POST" style="width:300px">
+<div style="margin-left:30%; margin-right:30%; text-align: justify">
+<form id="contactform" method="POST" style="width:400px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
     <input type="hidden" name="_subject" value="Website contact" />
