@@ -12,7 +12,7 @@ sitemap: false
 </style>
 
 <div style="text-align: center">
-<th>Bildergalerie</th>
+<p style="font-weight:bold">ildergalerie</p>
 </div>
 {: .notice--warning}
 
