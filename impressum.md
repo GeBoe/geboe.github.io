@@ -13,6 +13,6 @@ sitemap: false
 
 <p style="font-size:70%">Angaben gemäß &sect; 5 TMG:</p>
 <p style="font-size:70%">Gerwin Böttick<br /> Kerbelweg 7<br /> 48531 Nordhorn </p>
-<br>
 <p style="font-size:70%; font-weight:bold">Kontakt:</p>
+test
 
