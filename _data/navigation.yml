@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Abou"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Impressum"
+    url: /impressum/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Sitemap"
