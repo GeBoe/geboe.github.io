@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Verfügbarkeit/ Buchung"
+    url: /buchung/
   - title: "Abou"
     url: /about/
   - title: "Impressum"
     url: /impressum/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+ # - title: "Sample Collections"
+ #   url: /collection-archive/
+ # - title: "Sitemap"
+ #   url: /sitemap/
