@@ -21,7 +21,7 @@ sitemap: false
   
     <div style="width:10%;margin:auto;">
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1"><p style="font-size:10%"></p>
+        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
       </a>
       </div> 
     
@@ -31,24 +31,34 @@ sitemap: false
       </a>
       </div>
       
+     <div style="width:10%;margin:auto;"> 
       <a href="https://geboe.github.io/ferienwohnung_03.jpg">
         <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="Bild 3">
       </a>
+       </div>
     
+    <div style="width:10%;margin:auto;">
      <a href="https://geboe.github.io/ferienwohnung_04.jpg">
         <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="Bild 4">
       </a>
+       </div>
   
+  <div style="width:10%;margin:auto;">
     <a href="https://geboe.github.io/ferienwohnung_05.jpg">
         <img src="https://geboe.github.io/ferienwohnung_05.jpg" alt="Bild 5">
       </a>
+       </div>
       
+      <div style="width:10%;margin:auto;">
        <a href="https://geboe.github.io/ferienwohnung_06.jpg">
         <img src="https://geboe.github.io/ferienwohnung_06.jpg" alt="Bild 6">
       </a>
+       </div>
       
+      <div style="width:10%;margin:auto;">
        <a href="https://geboe.github.io/ferienwohnung_grundriss.jpg">
         <img src="https://geboe.github.io/ferienwohnung_grundriss.jpg" alt="Bild Grundriss">
       </a>
+       </div>
   
 </figure>
