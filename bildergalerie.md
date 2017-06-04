@@ -2,7 +2,7 @@
 title: "Bildergalerie"
 permalink: /bildergalerie/
 layout: splash
-excerpt: "Bildergalerie"
+excerpt: "bildergalerie"
 sitemap: false
 ---
 <style>
@@ -10,7 +10,6 @@ sitemap: false
     vertical-align: middle;
 }
 </style>
-
 <figure class="third">
   
     <div style="width:15%;margin:5%;">
