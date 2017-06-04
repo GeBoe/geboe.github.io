@@ -11,12 +11,11 @@ sitemap: false
 }
 </style>
 
-<div style="margin-left:10%; margin-right:10%; text-align: justify">
 <h1>Bilder</h1>
 {: .text-center}
-</div>
 
-<figure class="four ">
+
+<figure class="third">
   
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
