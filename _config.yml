@@ -247,4 +247,4 @@ defaults:
       comments: # true
       share: true
       related: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
