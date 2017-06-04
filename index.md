@@ -40,7 +40,7 @@ sitemap: false
       </a>
   
   
-    <figcaption>Examples of included layouts <code class="highlighter-rouge">splash</code>, <code class="highlighter-rouge">single</code>, and <code class="highlighter-rouge">archive</code>.
+    <figcaption>Example of included layouts <code class="highlighter-rouge">splash</code>, <code class="highlighter-rouge">single</code>, and <code class="highlighter-rouge">archive</code>.
 </figcaption>
   
 </figure>
