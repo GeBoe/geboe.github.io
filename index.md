@@ -15,20 +15,16 @@ sitemap: false
 {: .notice--warning}
 
 
-<figure class="one">
+<figure class="third">
   
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
+        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1"><p style="font-size:10%"></p>
       </a>
-    
-  
     
       <a href="https://geboe.github.io/ferienwohnung_02.jpg">
         <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="Bild 2">
       </a>
-    
-  
     
       <a href="https://geboe.github.io/ferienwohnung_03.jpg">
         <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="Bild 3">
