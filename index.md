@@ -19,27 +19,35 @@ sitemap: false
   
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="splash layout example">
+        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
       </a>
     
   
     
       <a href="https://geboe.github.io/ferienwohnung_02.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="single layout with comments and related posts">
+        <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="Bild 2">
       </a>
     
   
     
       <a href="https://geboe.github.io/ferienwohnung_03.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="archive layout example">
+        <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="Bild 3">
       </a>
     
      <a href="https://geboe.github.io/ferienwohnung_04.jpg">
-        <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="archive layout example">
+        <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="Bild 4">
       </a>
   
-  
-    <figcaption>Example of included layouts <code class="highlighter-rouge">splash</code>, <code class="highlighter-rouge">single</code>, and <code class="highlighter-rouge">archive</code>.
-</figcaption>
+    <a href="https://geboe.github.io/ferienwohnung_05.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_05.jpg" alt="Bild 5">
+      </a>
+      
+       <a href="https://geboe.github.io/ferienwohnung_06.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_06.jpg" alt="Bild 6">
+      </a>
+      
+       <a href="https://geboe.github.io/ferienwohnung_grundriss.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_grundriss.jpg" alt="Bild Grundriss">
+      </a>
   
 </figure>
