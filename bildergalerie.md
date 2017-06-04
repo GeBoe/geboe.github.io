@@ -13,13 +13,13 @@ sitemap: false
 
 <figure class="third">
   
-    <div style="width:15%;margin:5%;">
+    <div style="width:20%;margin:5%;">
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
         <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
       </a>
       </div> 
     
-    <div style="width:15%;margin:5%;">
+    <div style="width:20%;margin:5%;">
       <a href="https://geboe.github.io/ferienwohnung_02.jpg">
         <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="Bild 2">
       </a>
