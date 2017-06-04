@@ -1,5 +1,5 @@
 ---
-title: "Verfügbarkeit/ Buchung"
+title: "Verfügbarkeit"
 permalink: /buchung/
 layout: splash
 excerpt: "buchung"
