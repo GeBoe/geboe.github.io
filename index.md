@@ -5,9 +5,6 @@ layout: splash
 excerpt: "Wohnung"
 sitemap: false
 ---
-<h1>Ferienwohnung</h1>
-{: .text-center}
-
 <style>
 body{
   margin: 0;
@@ -28,7 +25,7 @@ body{
 }
 </style>
 
-<h2>Team</h2>
+<h2>Bilder</h2>
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
