@@ -10,5 +10,4 @@ sitemap: false
     vertical-align: middle;
 }
 </style>
-
-<h1>Beschreibung</h1>
+Beschreibung
