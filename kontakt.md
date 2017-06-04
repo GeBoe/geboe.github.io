@@ -11,7 +11,7 @@ sitemap: false
 }
 </style>
 
-<div style="margin-left:40%; margin-right:40%; text-align: center">
+<div style="text-align: center">
 <form id="contactform" method="POST" style="width:500px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
