@@ -10,9 +10,9 @@ main:
  #   url: /about/
   - title: "Kontakt"
     url: /kontakt/
-  - title: "Impressum"
-    url: /impressum/
-  - title: "Datenschutzerklärung"
-    url: /datenschutz/
+ # - title: "Impressum"
+ #   url: /impressum/
+ # - title: "Datenschutzerklärung"
+ #   url: /datenschutz/
  # - title: "Sitemap"
  #   url: /sitemap/
