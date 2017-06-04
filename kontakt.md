@@ -11,6 +11,7 @@ sitemap: false
 }
 </style>
 
+<div style="margin-left:30%; margin-right:10%; text-align: justify">
 <form id="contactform" method="POST" style="width:300px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
@@ -19,7 +20,7 @@ sitemap: false
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>
-{: .text-center}
+</div>
 <script>
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'tobias.johannink' + '@' + 'gmx' + '.' + 'de');
