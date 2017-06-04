@@ -11,9 +11,9 @@ sitemap: false
 }
 
 submit {
- color: #fff;
+ color: #999999;
  font-size: 0;
- width: 135px;
+ width: 200px;
  height: 60px;
  border: none;
  margin: 0;
