@@ -12,14 +12,14 @@ sitemap: false
 </style>
 
 <div style="text-align: center">
-<p style="font-weight:bold">ildergalerie</p>
+<p style="font-weight:bold">Bildergalerie</p>
 </div>
 {: .notice--warning}
 
 
 <figure class="third">
   
-    <div style="width:15%;margin:10px;">
+    <div style="width:15%;margin:100px;">
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
         <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1">
       </a>
