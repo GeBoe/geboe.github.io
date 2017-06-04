@@ -1,8 +1,8 @@
 ---
-title: "Beschreibung"
-permalink: /beschreibung/
+title: "Datenschutzerklärung"
+permalink: /datenschutz/
 layout: splash
-excerpt: "Beschreibung"
+excerpt: "Datenschutzerklärung"
 sitemap: false
 ---
 <style>
