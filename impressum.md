@@ -11,3 +11,5 @@ sitemap: false
 }
 </style>
 
+<h2>Angaben gemäß &sect; 5 TMG:</h2>
+
