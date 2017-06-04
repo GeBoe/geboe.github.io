@@ -15,7 +15,7 @@ sitemap: false
 {: .notice--info}
 
 
-<figure class="third">
+<figure class="one">
   
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
