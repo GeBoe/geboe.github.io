@@ -13,13 +13,12 @@ sitemap: false
 
 <h1>Kontakt</h1>
 
-<form id="contactform" method="POST" style="width:50px">
+<form id="contactform" method="POST" style="width:100px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
     <input type="hidden" name="_subject" value="Website contact" />
     <textarea name="message" placeholder="Your message"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
-    <a href="#" class="btn">Link Text</a>
     <input type="submit" value="Send">
 </form>
 <script>
