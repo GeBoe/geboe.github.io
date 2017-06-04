@@ -12,4 +12,4 @@ header:
     vertical-align: middle;
 }
 </style>
-Hier Fotos Haus einfügen
+Hier Begrüßungstext einfügen
