@@ -13,7 +13,7 @@ sitemap: false
 
 <h1>Kontakt</h1>
 
-<form id="contactform" method="POST">
+<form id="contactform" method="POST" style="width:50px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
     <input type="hidden" name="_subject" value="Website contact" />
