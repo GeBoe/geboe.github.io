@@ -10,6 +10,7 @@ sitemap: false
     vertical-align: middle;
 }
 </style>
+Hier Beschreibungstext einfügen
 
 <div style="text-align: center">
 <p style="font-weight:bold">Bildergalerie</p>
