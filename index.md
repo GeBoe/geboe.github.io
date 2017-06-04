@@ -38,25 +38,25 @@ sitemap: false
        </div>
     <br>
     
-    <div style="width:15%;margin:auto;">
+    <div style="width:15%;margin:5%;">
      <a href="https://geboe.github.io/ferienwohnung_04.jpg">
         <img src="https://geboe.github.io/ferienwohnung_04.jpg" alt="Bild 4">
       </a>
        </div>
   
-  <div style="width:15%;margin:auto;">
+  <div style="width:15%;margin:5%;">
     <a href="https://geboe.github.io/ferienwohnung_05.jpg">
         <img src="https://geboe.github.io/ferienwohnung_05.jpg" alt="Bild 5">
       </a>
        </div>
       
-      <div style="width:15%;margin:auto;">
+      <div style="width:15%;margin:5%;">
        <a href="https://geboe.github.io/ferienwohnung_06.jpg">
         <img src="https://geboe.github.io/ferienwohnung_06.jpg" alt="Bild 6">
       </a>
        </div>
       
-      <div style="width:15%;margin:auto;">
+      <div style="width:15%;margin:5%;">
        <a href="https://geboe.github.io/ferienwohnung_grundriss.jpg">
         <img src="https://geboe.github.io/ferienwohnung_grundriss.jpg" alt="Bild Grundriss">
       </a>
