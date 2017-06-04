@@ -12,7 +12,7 @@ sitemap: false
 </style>
 
 <div style="text-align: center">
-<h1>Bildergalerie</h1>
+<h2>Bildergalerie</h2>
 </div>
 {: .notice--warning}
 
