@@ -10,6 +10,8 @@ sitemap: false
     vertical-align: middle;
 }
 </style>
+<h2>Kontaktformular</h2>
+{: .text-center}
 
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Dein Name">
