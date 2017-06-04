@@ -19,6 +19,7 @@ sitemap: false
     <input type="hidden" name="_subject" value="Website contact" />
     <textarea name="message" placeholder="Your message"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
+    <a href="#" class="btn">Link Text</a>
     <input type="submit" value="Send">
 </form>
 <script>
