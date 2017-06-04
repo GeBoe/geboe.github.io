@@ -13,19 +13,19 @@ sitemap: false
 
 <div style="text-align: justify">
 <h1>Bildergalerie</h1>
-{: .notice--warning}
 </div>
+{: .notice--warning}
 
 
 <figure class="third">
   
-    <div style="width:20%;margin:auto;">
+    <div style="width:30%;margin:auto;">
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
         <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="Bild 1"><p style="font-size:10%"></p>
       </a>
       </div> 
     
-    <div style="width:20%;margin:auto;">
+    <div style="width:30%;margin:auto;">
       <a href="https://geboe.github.io/ferienwohnung_02.jpg">
         <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="Bild 2">
       </a>
