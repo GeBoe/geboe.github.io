@@ -19,20 +19,20 @@ sitemap: false
 <figure class="third ">
   
     
-      <a href="https://geboe.github.io/screenshot.png">
-        <img src="https://geboe.github.io/screenshot.png" alt="splash layout example">
+      <a href="https://geboe.github.io/ferienwohnung_01.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="splash layout example">
       </a>
     
   
     
-      <a href="https://geboe.github.io/screenshot.png">
-        <img src="https://geboe.github.io/screenshot.png" alt="single layout with comments and related posts">
+      <a href="https://geboe.github.io/ferienwohnung_02.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_02.jpg" alt="single layout with comments and related posts">
       </a>
     
   
     
-      <a href="https://geboe.github.io/screenshot.png">
-        <img src="https://geboe.github.io/screenshot.png" alt="archive layout example">
+      <a href="https://geboe.github.io/ferienwohnung_03.jpg">
+        <img src="https://geboe.github.io/ferienwohnung_03.jpg" alt="archive layout example">
       </a>
     
   
