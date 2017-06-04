@@ -9,14 +9,10 @@ sitemap: false
  td {
     vertical-align: middle;
 }
-
-div {
-    text-align: center;
-}
 </style>
 
 
-<div id="div">
+<div style="text-align:center">
 <form id="contactform" method="POST" style="width:300px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
