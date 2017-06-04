@@ -12,7 +12,7 @@ sitemap: false
 </style>
 
 <h1>Bilder</h1>
-{: .notice--info}
+{: .notice--warning}
 
 
 <figure class="one">
