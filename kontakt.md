@@ -9,11 +9,22 @@ sitemap: false
  td {
     vertical-align: middle;
 }
+
+submit {
+ color: #fff;
+ font-size: 0;
+ width: 135px;
+ height: 60px;
+ border: none;
+ margin: 0;
+ padding: 0;
+ background: #0c0 url(image) 0 0 no-repeat; 
+}
 </style>
 
 <h1>Kontakt</h1>
 
-<form id="contactform" method="POST" style="width:100px">
+<form id="contactform" method="POST" style="width:300px">
     <input type="text" name="name" placeholder="Your name">
     <input type="email" name="_replyto" placeholder="Your email">
     <input type="hidden" name="_subject" value="Website contact" />
