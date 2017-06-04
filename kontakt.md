@@ -12,10 +12,10 @@ sitemap: false
 </style>
 
 <form id="contactform" method="POST">
-    <input type="text" name="name" placeholder="Your name">
-    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="text" name="name" placeholder="Dein Name">
+    <input type="email" name="_replyto" placeholder="Deine E-Mail">
     <input type="hidden" name="_subject" value="Website contact" />
-    <textarea name="message" placeholder="Your message" style="height:75px"></textarea>
+    <textarea name="message" placeholder="Deine Nachricht" style="height:150px"></textarea>
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>
