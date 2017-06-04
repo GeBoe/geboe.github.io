@@ -16,7 +16,7 @@ sitemap: false
 {: .text-center}
 </div>
 
-<figure class="third ">
+<figure class="four ">
   
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
