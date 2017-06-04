@@ -2,8 +2,8 @@
 main:
   - title: "Verfügbarkeit/ Buchung"
     url: /buchung/
-  - title: "Abou"
-    url: /about/
+ # - title: "Abou"
+ #   url: /about/
   - title: "Impressum"
     url: /impressum/
  # - title: "Sample Collections"
