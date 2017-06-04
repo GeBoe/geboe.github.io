@@ -17,7 +17,7 @@ sitemap: false
 </div>
 
 <figure class="third ">
-  <div style="margin-left:10%; margin-right:10%; text-align: justify">
+  
     
       <a href="https://geboe.github.io/ferienwohnung_01.jpg">
         <img src="https://geboe.github.io/ferienwohnung_01.jpg" alt="splash layout example">
@@ -42,5 +42,5 @@ sitemap: false
   
     <figcaption>Examples of included layouts <code class="highlighter-rouge">splash</code>, <code class="highlighter-rouge">single</code>, and <code class="highlighter-rouge">archive</code>.
 </figcaption>
-  </div>
+  
 </figure>
