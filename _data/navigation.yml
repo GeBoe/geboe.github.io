@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Beschreibung"
-    url: /beschreibung/
+ # - title: "Beschreibung"
+ #   url: /beschreibung/
   - title: "Bildergalerie"
     url: /bildergalerie/
   - title: "Verfügbarkeit"
