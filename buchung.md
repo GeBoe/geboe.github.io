@@ -13,5 +13,5 @@ sitemap: false
 
 Hier auf Link verweisen
 
- <a href="https://www.upstalsboom-ferienwohnungen.de/ferienanlage/ferienvillen-anna-duene-nordseeheilbad-wangerooge.html" class="btn btn--warning" target="_blank">Verfügbarkeit und Buchungssystem</a>
+ <a href="https://www.upstalsboom-ferienwohnungen.de/ferienanlage/ferienvillen-anna-duene-nordseeheilbad-wangerooge.html" class="btn btn--warning" target="_blank">Verfügbarkeit überprüfen und buchen</a>
 {: .text-center}
