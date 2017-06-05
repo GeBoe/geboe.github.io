@@ -12,7 +12,7 @@ sitemap: false
 </style>
 <h2>Kontaktformular</h2>
 {: .text-center}
-
+<!--
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Dein Name">
     <input type="email" name="_replyto" placeholder="Deine E-Mail-Adresse">
@@ -27,4 +27,4 @@ sitemap: false
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'tobias.johannink' + '@' + 'gmx' + '.' + 'de');
 </script>
-
+-->
