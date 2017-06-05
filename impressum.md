@@ -19,4 +19,4 @@ sitemap: false
 <p>Angaben gemäß &sect; 5 TMG:</p>
 <p>Gerwin Böttick<br /> Kerbelweg 7<br /> 48531 Nordhorn</p>
 <p>Kontakt:</p>
-<p>Telefon: 05921 / 320119<br /> E-Mail: boettick@gmx.de</p>
+<p>Mobiltelefon: +491707918597<br /> E-Mail: boettick@gmx.de</p>
